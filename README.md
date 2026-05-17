@@ -13,4 +13,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Hi 👋 I'm Akash Jadhav
+
+🚀 Backend Developer | MERN Stack | DevOps Learner
+
+## 💻 Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- React
+- Docker
+- AWS
+- Kafka
+- CI/CD
+
+## 🚀 Current Projects
+- eventone — Open-source Event Management Platform
+- Sudharak App — Civic Issue Reporting System
+
+## 🌱 Currently Learning
+- FastAPI
+- Kubernetes
+- System Design
+
+## 📫 Connect With Me
+- LinkedIn
+- Portfolio
+- Email
+
+## ⚡ GitHub Stats
 -->
