@@ -12,7 +12,8 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Scalable+Backend+System+Builder;AI+%26+Cloud+Engineering;Open+Source+Contributor;Engineering+Clean+ Scalable+Solutions+%26+Building;GSSOC+2026;Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+System+Builder;AI+%26+Cloud+Engineer;Open+Source+Contributor;GSSOC+2026;Continuous+Learner"
+    alt="Typing SVG"
   />
 </div>
 <br>
